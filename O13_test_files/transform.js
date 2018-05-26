@@ -7,7 +7,7 @@ function Transform() {
 Transform.prototype.reset = function() {
   this.m = [1,0,0,1,0,0];
 };
-
+var a=5;
 Transform.prototype.multiply = function(matrix) {
 
   if (matrix) {
