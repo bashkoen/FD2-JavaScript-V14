@@ -1,6 +1,7 @@
 ﻿div.PSourceLine
 {
   background-color: red;
+  background-color: green;
 }
 
 div.PSourceRunning
@@ -29,7 +30,6 @@ div.PSourceCode
   padding-left: 15px;
 }
 
-span.PSourceCodeText
 {
 }
 
